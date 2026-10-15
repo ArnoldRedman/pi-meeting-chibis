@@ -5,7 +5,7 @@
 
 - 允许自由使用、复制、修改和再分发，包括用于开源项目和个人项目
 - **禁止任何商业性使用**；商业使用必须事先取得作者单独授权
-  （通过 GitHub 联系 [@ArnoldRedman](https://github.com/ArnoldRedman)）
+  （邮件 2876246519@qq.com，或在 GitHub 上联系 [@ArnoldRedman](https://github.com/ArnoldRedman)）
 - 分发（含修改后分发）时必须保留署名 ArnoldRedman、本声明与 [LICENSE](LICENSE)
 - 修改后的作品必须以同一许可证（CC BY-NC-SA 4.0）发布
 
