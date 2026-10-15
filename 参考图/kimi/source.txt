@@ -1,0 +1,11 @@
+# 抖音「你刷到的是：【Kimi】想看TA穿什么？」@Sum  #kimi #服设立绘 #AI #ai形象照 #娘化
+# 帖子: https://www.douyin.com/note/7695235928486415658
+# 身份核对：七模型合照里没有 Kimi，用三视图设定稿上的 "Kimi / MUSIC CONNECTS WORLDS" 字样核对
+# 形象：白/银发 + 黑白钢琴键长裙 + K 胸牌（音乐主题），不是黑长直哥特裙那版
+# f185ec44…_noop.jpg  立绘，noop 原图（未二次压缩，61KB vs q75 的 31KB）
+# f1888da9…_q75.webp  三视图设定稿（正/侧/背 + 8 细节 + 色板），抖音源图就是 1376x768
+# osfAEE…_q75.webp    KIMI 视觉海报（Lunar Cognition / Synthetic Muse），1672x941
+https://p9-pc-sign.douyinpic.com/tos-cn-i-dy/f185ec4495d549fe9f1b068bc1a4279f~noop.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_AWEME_DETAIL&se=false&x-expires=1793181600&x-signature=hLCCbqRJQDNvlJHbF1jm91wYjNE%3D
+https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/f1888da9c9c34babbdec3edd3e2ef9a8~tplv-dy-aweme-images:q75.webp?biz_tag=aweme_images&from=327834062&lk3s=138a59ce&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1794560400&x-signature=F5Cy2iluGAXuqgYRJfpPGYTrxBY%3D
+https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c000-ce/osfAEEAFDEA4A9AwgaAAnZIBOnFWDfWEelDqjA~tplv-dy-aweme-images:q75.webp?biz_tag=aweme_images&from=327834062&lk3s=138a59ce&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1794560400&x-signature=hwRN2qpOB5WS5uDpuskcorVzNiI%3D
+# 注意：9f2602da… 那张黑长直哥特裙是 GLM 的，已移到 参考图/glm/

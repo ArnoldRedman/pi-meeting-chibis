@@ -1,0 +1,5 @@
+# Blender 自动备份（每次保存都会重新生成）与 Python 字节码
+*.blend1
+*.blend2
+__pycache__/
+*.pyc
