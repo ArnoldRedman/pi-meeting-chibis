@@ -111,4 +111,4 @@ blender -b --factory-startup -P tools/characters/prepare_scene.py -- <名字>
 - **禁止任何商业性使用**；商业使用必须事先取得作者单独授权（通过 GitHub 联系 [@ArnoldRedman](https://github.com/ArnoldRedman)）
 - 分发（含修改后分发）必须保留署名 ArnoldRedman 与本许可证声明，修改后的作品必须以同一许可证发布
 
-`参考图/` 里的第三方设计图、模型上引用到的品牌标志不在本许可证覆盖范围内，详见 [LICENSE](LICENSE)。
+细节、以及不在覆盖范围内的内容（`参考图/` 第三方设计图、模型上引用到的品牌标志）见 [NOTICE.md](NOTICE.md)。

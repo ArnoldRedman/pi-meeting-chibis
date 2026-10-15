@@ -1,29 +1,3 @@
-pi-meeting-chibis —— 8 个自制（程序化生成）的 chibi 角色模型及其预览图
-Copyright (C) 2026 ArnoldRedman
-
-本项目（模型、预览图、生成器脚本与文档）采用
-「署名 — 非商业性使用 — 相同方式共享 4.0 国际」（CC BY-NC-SA 4.0）许可：
-
-  · 允许自由使用、复制、修改和再分发，包括用于开源项目和个人项目
-  · 禁止任何商业性使用；商业使用必须事先取得作者单独授权
-  · 分发（含修改后分发）时必须保留署名 ArnoldRedman 与本许可证声明
-  · 修改后的作品必须以同一许可证（CC BY-NC-SA 4.0）发布
-
-商业授权：请通过 GitHub 联系 @ArnoldRedman
-
-不在本许可证覆盖范围内的内容：
-
-  · 参考图/ 目录下来自抖音等平台的第三方设计图，版权归原作者，仅作设计参考
-  · 品牌标志（OpenAI / DeepSeek / X / Gemini / Claude / Kimi / Qwen / GLM 等）归各自所有者；
-    本项目是非官方作品，与上述公司无隶属关系，也不代表其立场
-  · 骨架与动作来自 Kenney 的 Mini Characters（CC0），说明见 README 与
-    tools/characters/base/License.txt
-
-以下为 Creative Commons 官方许可证法律文本，未作任何修改。
-来源：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
-
-=======================================================================
-
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
